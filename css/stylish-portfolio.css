@@ -88,6 +88,10 @@ hr.small {
     line-height: 40px;
 }
 
+#menu-close {
+    text-indent: 0px;
+}
+
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
